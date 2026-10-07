@@ -27,7 +27,7 @@ The dashboard helps analyze:
 
 ## 🖥️ Dashboard Preview
 
-![UPI Transaction Analysis Dashboard](Dashboard.png)
+![UPI Transaction Analysis Dashboard](UPI_TRANSACTION_ANALYSIS_DASHBOARD_PROJECT.png)
 
 ---
 
@@ -221,4 +221,3 @@ Key skills:
 `Advanced Excel` · `Data Analysis` · `Pivot Tables` · `XLOOKUP` · `INDEX-MATCH` · `SUMIFS` · `Conditional Formatting` · `Slicers` · `Charts` · `Dashboard Development`
 
 ---
-![UPI Transaction Analysis Dashboard](UPI_TRANSACTION_ANALYSIS_DASHBOARD_PROJECT.png)
